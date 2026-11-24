@@ -36,4 +36,4 @@ VALUES
 INSERT INTO `skills`
 (name, description)
 VALUES
-('Computer Hardware', 'Someone who can carry out the process of troubleshooting and/or replacing one or more hardware components in a computer or other device that processes computer instructions.');
+('Hardware', 'Someone who can carry out the process of troubleshooting and/or replacing one or more hardware components in a computer or other device that processes computer instructions.');
