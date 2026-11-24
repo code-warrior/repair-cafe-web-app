@@ -32,3 +32,5 @@ ehthumbs_vista.db
 Thumbs.db
 Thumbs.db:encryptable
 WerFault*.dmp
+
+.idea/
