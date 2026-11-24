@@ -6,7 +6,7 @@ VALUES
 INSERT INTO `skills`
 (name, description)
 VALUES
-('Metalurgy', 'Someone who specializes in the branch of materials science and engineering that studies the physical and chemical behavior of metallic elements, inter-metallic compounds, and alloys.');
+('Metallurgy ', 'Someone who specializes in the branch of materials science and engineering that studies the physical and chemical behavior of metallic elements, intermetallic compounds, and alloys.');
 
 INSERT INTO `skills`
 (name, description)
