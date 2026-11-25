@@ -68,3 +68,7 @@ INSERT INTO `skills`
 VALUES
 ('Phones','Diagnosing hardware and software issues, replacing screens (when feasible), replacing batteries, repairing charging ports, replacing buttons and switches, cleaning charging ports and speakers, troubleshooting startup and boot problems, installing software updates, removing malware (where applicable), backing up and recovering data, transferring data between devices, optimizing performance, replacing cameras and other modular components (when feasible), resolving connectivity issues (Wi-Fi, Bluetooth, cellular), setting up new devices, and helping with basic settings, accessibility features, and user questions.');
 
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Metalwork','Straightening bent metal parts, repairing or fabricating small brackets and supports, repairing hinges and latches, replacing rivets and fasteners, drilling and tapping holes, cutting and shaping metal, filing and deburring edges, removing rust and corrosion, polishing and refinishing metal surfaces, brazing or welding small components (when appropriate), fabricating simple replacement parts, reinforcing weakened structures, repairing household hardware, restoring tools and metal objects, and extending the life of everyday items through repair and fabrication.');
