@@ -42,3 +42,9 @@ INSERT INTO `skills`
 (name, description)
 VALUES
 ('Appliances','Diagnosing electrical or mechanical failures in household appliances; replacing cords and plugs; repairing switches; cleaning internal components; replacing belts; lubricating moving parts; repairing fans, toasters, coffee makers, blenders, lamps, vacuum cleaners, mixers, etc.');
+
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Ceramics','Reassembling broken ceramics; bonding fractured pieces; filling missing sections (when appropriate); decorative kintsugi repairs; stabilizing cracks.');
+
