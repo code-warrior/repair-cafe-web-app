@@ -1,7 +1,7 @@
 CREATE TABLE `skills` (
   `skill_id`    INT          AUTO_INCREMENT,
   `name`        VARCHAR(128) UNIQUE NOT NULL,
-  `description` VARCHAR(512),
+  `description` VARCHAR(1024),
 
   PRIMARY KEY (`skill_id`),
   FULLTEXT INDEX `ftix_skills_description` (`description`)
