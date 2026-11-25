@@ -63,3 +63,8 @@ INSERT INTO `skills`
 VALUES
 ('Computer Repair and Technical Support','Diagnosing hardware and software issues; troubleshooting startup and boot problems; replace laptop batteries; replace or upgrade RAM; install/replace SSDs, hard drives, and hybrid drives; clean internal components and fans; reapply thermal paste; repair/replace keyboards; replace screens; repair charging ports and power adapters; recover and back up data; install/reinstall operating systems; remove malware and unwanted software; perform software updates and driver installation; optimize system performance; set up printers and peripherals; help with basic computer settings and user questions; advise whether a repair is practical, economical, or environmentally worthwhile.');
 
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Phones','Diagnosing hardware and software issues, replacing screens (when feasible), replacing batteries, repairing charging ports, replacing buttons and switches, cleaning charging ports and speakers, troubleshooting startup and boot problems, installing software updates, removing malware (where applicable), backing up and recovering data, transferring data between devices, optimizing performance, replacing cameras and other modular components (when feasible), resolving connectivity issues (Wi-Fi, Bluetooth, cellular), setting up new devices, and helping with basic settings, accessibility features, and user questions.');
+
