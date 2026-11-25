@@ -37,3 +37,8 @@ INSERT INTO `skills`
 (name, description)
 VALUES
 ('Hardware', 'Someone who can carry out the process of troubleshooting and/or replacing one or more hardware components in a computer or other device that processes computer instructions.');
+
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Appliances','Diagnosing electrical or mechanical failures in household appliances; replacing cords and plugs; repairing switches; cleaning internal components; replacing belts; lubricating moving parts; repairing fans, toasters, coffee makers, blenders, lamps, vacuum cleaners, mixers, etc.');
