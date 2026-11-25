@@ -58,3 +58,8 @@ INSERT INTO `skills`
 VALUES
 ('Jewelry','Repairing broken chains; replacing clasps; reattaching charms and pendants; restringing necklaces and bracelets; replacing jump rings; repairing earrings; replacing earring backs and hooks; tightening loose components; polishing metal surfaces; cleaning jewelry; straightening bent pieces; securing loose settings; repairing costume jewelry; and, restoring wearable function while preserving the original piece.');
 
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Computer Repair and Technical Support','Diagnosing hardware and software issues; troubleshooting startup and boot problems; replace laptop batteries; replace or upgrade RAM; install/replace SSDs, hard drives, and hybrid drives; clean internal components and fans; reapply thermal paste; repair/replace keyboards; replace screens; repair charging ports and power adapters; recover and back up data; install/reinstall operating systems; remove malware and unwanted software; perform software updates and driver installation; optimize system performance; set up printers and peripherals; help with basic computer settings and user questions; advise whether a repair is practical, economical, or environmentally worthwhile.');
+
