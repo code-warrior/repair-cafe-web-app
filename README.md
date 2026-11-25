@@ -1,5 +1,7 @@
 # A Repair Café Web App
 
+![Repair Café Logo](assets/repair-cafe-logo--black.jpg)
+
 ## Description
 
 ---
