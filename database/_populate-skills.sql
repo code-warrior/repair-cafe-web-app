@@ -11,7 +11,7 @@ VALUES
 INSERT INTO `skills`
 (name, description)
 VALUES
-('Sewing', 'Someone adept at the craft of fastening or joining textiles using a needle and thread and/or a sewing machine.');
+('Sewing', 'Mending tears; patching holes; repairing seams; hemming pants; skirts and dresses; replacing or repairing zippers; sewing on buttons; reinforcing stress points; adjusting garment fit; shortening sleeves; repairing pockets; replacing elastic. Someone who can darn holes, repair moth damage, reweave knit stitches, duplicate stitch repairs, reinforce worn areas. Someone familiar with Swiss darning, decorative visible mending, repairing cuffs, socks, sweaters, scarves and knitted garments.');
 
 INSERT INTO `skills`
 (name, description)
