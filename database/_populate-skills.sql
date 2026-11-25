@@ -52,3 +52,9 @@ INSERT INTO `skills`
 (name, description)
 VALUES
 ('Bikes','Adjusting brakes; tuning gears; repairing flat tires; replacing tubes; chain maintenance; brake pad replacement; tightening components; wheel adjustments; lubricating drivetrain; and, basic safety inspections.');
+
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Jewelry','Repairing broken chains; replacing clasps; reattaching charms and pendants; restringing necklaces and bracelets; replacing jump rings; repairing earrings; replacing earring backs and hooks; tightening loose components; polishing metal surfaces; cleaning jewelry; straightening bent pieces; securing loose settings; repairing costume jewelry; and, restoring wearable function while preserving the original piece.');
+
