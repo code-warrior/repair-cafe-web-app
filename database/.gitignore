@@ -1,5 +1,7 @@
 *
 
 !.gitignore
+
+!_variables.sql
 !_skills.sql
 !_populate-skills.sql
