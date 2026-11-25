@@ -26,7 +26,7 @@ VALUES
 INSERT INTO `skills`
 (name, description)
 VALUES
-('Woodworking', 'Woodworking is the craft of making items from wood, encompassing furniture making, cabinetry, joinery, woodturning, and carving.');
+('Woodworking', 'Repairing broken furniture; regluing loose joints; reinforcing weakened structures; replacing or fabricating small wooden parts; repairing drawers and cabinet doors; adjusting hinges and hardware; filling cracks; sanding rough or damaged surfaces; refinishing wood; repairing chair legs and table frames; replacing dowels and screws; tightening loose furniture; repairing wooden toys and household objects; restoring cutting boards and wooden utensils; and, extending the life of everyday wooden items through repair and craftsmanship.');
 
 INSERT INTO `skills`
 (name, description)
