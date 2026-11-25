@@ -4,6 +4,13 @@
 
 ---
 
+## Features
+
+* Volunteer registration and attendance
+* Guest registration and attendance
+* No web tracking or spying
+
+---
 ## Requirements
 
 ### MySQL
