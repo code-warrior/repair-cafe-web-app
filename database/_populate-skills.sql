@@ -1,7 +1,7 @@
 INSERT INTO `skills`
 (name, description)
 VALUES
-('Electronics', 'Someone with the ability to build, test, install, troubleshoot, and/or repair consumer-grade electronic goods, often following engineering plans. Someone able to understand most, if not all, of the items on an electronic circuit board.');
+('Electronics', 'Someone with the ability to build, test, install, troubleshoot, and/or repair consumer-grade electronic goods, often following engineering plans. Someone who can diagnose faults, solder broken connections, replace capacitors, repair cables, replace connectors, fix switches and buttons, replace batteries, troubleshoot power issues, and test circuits.');
 
 INSERT INTO `skills`
 (name, description)
