@@ -48,3 +48,7 @@ INSERT INTO `skills`
 VALUES
 ('Ceramics','Reassembling broken ceramics; bonding fractured pieces; filling missing sections (when appropriate); decorative kintsugi repairs; stabilizing cracks.');
 
+INSERT INTO `skills`
+(name, description)
+VALUES
+('Bikes','Adjusting brakes; tuning gears; repairing flat tires; replacing tubes; chain maintenance; brake pad replacement; tightening components; wheel adjustments; lubricating drivetrain; and, basic safety inspections.');
