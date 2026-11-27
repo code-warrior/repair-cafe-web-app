@@ -3,6 +3,7 @@
 !.gitignore
 
 !_variables.sql
+!_member.sql
 !_skills.sql
 !_status.sql
 !_database-privilege.sql
