@@ -8,3 +8,4 @@
 !_database-privilege.sql
 !_populate-skills.sql
 !_populate-status.sql
+!_populate-database-privilege.sql
